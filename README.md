@@ -8,15 +8,6 @@
 
 基本功能已完善，鸽几天，有问题先仔细看此README。
 
-## 致谢
-
-感谢Ninja原作者：@MoonBegonia
-
-仓库地址：https://github.com/MoonBegonia/ninja
-
-感谢WSCK功能原作者：@huiyi9420
-
-仓库地址：https://github.com/huiyi9420/ninja
 
 ## 新
 
