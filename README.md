@@ -1,3 +1,7 @@
+# 致谢
+作者：Waikkii  
+  
+[原链接](https://github.com/Waikkii/Waikiki_ninja/tree/master)
 # Ninja 
 
 支持CK注册，登录和删除，支持WSKEY录入和删除，登录成功进入个人中心，可修改备注。默认登录CK才可提交WSCK，主页提交WSCK容易乱，不建议。
